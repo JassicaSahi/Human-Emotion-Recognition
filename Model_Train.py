@@ -12,8 +12,8 @@ batch_size = 8                #how many images I want to give my model to train 
 
 # most of us make batch of 32 but due to gpu and memory i take it 8....
 
-train_data_dir = 'C:/Users/Satyam/Desktop/Facial-Expressions-Recognition1/images/train'
-validation_data_dir = 'C:/Users/Satyam/Desktop/Facial-Expressions-Recognition1/images/validation'
+train_data_dir = 'C:/Users/Jassica/Desktop/Facial-Expressions-Recognition1/images/train'
+validation_data_dir = 'C:/Users/Jassica/Desktop/Facial-Expressions-Recognition1/images/validation'
 
 #Now its time to generate more images from one image..
 
